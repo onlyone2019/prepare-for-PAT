@@ -1,12 +1,18 @@
-##C++ algorithm 中的 accumulate 函数的使用
-###1、基本数据类型的数据的累加求和
-```
+
+# C++ algorithm 中的 accumulate 函数的使用
+
+## 1、基本数据类型的数据的累加求和
+
+```C++
 accumulate("起始地址","终止地址","迭加初始值")
 ```
-###2、自定义数据的求和,需要写一个函数作为accumulate的第四个参数
 
-####【例】
-```
+## 2、自定义数据的求和,需要写一个函数作为accumulate的第四个参数
+
+### 【例】
+
+```C++
+
 #include<iostream>
 #include<numeric>
 #include<algorithm>
@@ -43,4 +49,5 @@ int main()
 	cout << "grade " << grade << endl;//274
 	return 0;
 }
+
 ```
