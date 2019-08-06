@@ -8,6 +8,8 @@ binary_search(begin, end, index);
 **binary_search()** 使用的是二分查找，因此查询速度较快，但是要求待查询的序列是有序的而且是非降序。
 在区间[begin, end) 用二分法（折半）查找index，查到则返回true，否则返回false。查询的效率也非常高。
 
+#### 【例】
+
 ```C++
 #include<iostream>
 #include<algorithm>
