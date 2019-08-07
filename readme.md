@@ -8,3 +8,7 @@
 [3、sort 排序函数](https://github.com/onlyone2019/algorithm/blob/master/doc/sort.md)
 
 [4、binary_search 二分查找函数](https://github.com/onlyone2019/algorithm/blob/master/doc/binary_search.md)
+
+[5、find 查找函数](https://github.com/onlyone2019/algorithm/blob/master/doc/find.md)
+
+[6、count 计数函数](https://github.com/onlyone2019/algorithm/blob/master/doc/count.md)
