@@ -8,6 +8,8 @@ find(begin, end, index);
 **find()** 是在指定区间中查找index元素第一次出现的位置，返回该位置的迭代器，没找到则返回end。
 **特别地，** 在string类中也有自己的find函数，可用于字符串的匹配，若查到则返回查找子串首字母在该串中的位置，否则返回string::nops.这是一个非常有帮助的函数，string类中还有很多特别好用的字符串处理函数，后期会陆续更新。
 
+#### 【例】
+
 ```C++
 #include<iostream>
 #include<vector>
