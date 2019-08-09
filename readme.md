@@ -12,3 +12,9 @@
 [5、find 查找函数](https://github.com/onlyone2019/algorithm/blob/master/doc/find.md)
 
 [6、count 计数函数](https://github.com/onlyone2019/algorithm/blob/master/doc/count.md)
+
+[7、max, min, max_element, min_element 函数](https://github.com/onlyone2019/algorithm/blob/master/doc/max_min.md)
+
+[8、lower_bound, upper_bound 函数](https://github.com/onlyone2019/algorithm/blob/master/doc/lowerAndUpper.md)
+
+[6、next_permutation,prev_permutaion 函数](https://github.com/onlyone2019/algorithm/blob/master/doc/permutation.md)
