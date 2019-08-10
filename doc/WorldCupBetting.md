@@ -1,16 +1,16 @@
 
 ### PTA练习之 World Cup Betting
 
-![first](images/WorldCupBetting1.png)
+![first](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/images/WorldCupBetting1.PNG)
 
-![second](images/WorldCupBetting2.png)
+![second](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/images/WorldCupBetting2.PNG)
 
-#####【解题思路】
+##### 【解题思路】
 
 这个题目是相对较为简单的题。题目是以足球博彩引出，但是总结起来很简单，就是给你三行数据，每行三列，你需要找出每列中最大的值，每个最大的值对应的字母"W"，"T"，"L"，输出一下，然后把三个最大值相乘再乘以0.65（65%的赔率）保留两位小数输出，所以真的很简单吧！
 
 
-#####【话不多说，上代码】
+##### 【话不多说，上代码】
 
 ```C++
 #include<iostream>
