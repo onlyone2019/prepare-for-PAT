@@ -3,7 +3,7 @@
 
 ![first](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/images/radix1.PNG)
 
-![second](images/radix2.png)
+![second](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/images/radix2.PNG)
 
 题目我就直接截图不码字啦。
 
