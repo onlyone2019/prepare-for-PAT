@@ -18,3 +18,9 @@
 [8、lower_bound, upper_bound 函数](https://github.com/onlyone2019/algorithm/blob/master/doc/lowerAndUpper.md)
 
 [9、next_permutation,prev_permutaion 函数](https://github.com/onlyone2019/algorithm/blob/master/doc/permutation.md)
+
+### PAT 甲级练习
+
+[1、1010 Radix](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/radix.md)
+
+[2、1011 World Cup Betting](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/WorldCupBetting.md)
