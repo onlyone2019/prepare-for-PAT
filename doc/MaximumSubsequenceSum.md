@@ -1,9 +1,9 @@
 
 ### PTA练习之 Maximum Subsequence Sum
 
-![first](images/WorldCupBetting1.png)
+![first](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/images/MaximumSubsequenceSum1.PNG)
 
-![second](images/WorldCupBetting2.png)
+![second](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/images/MaximumSubsequenceSum2.PNG)
 
 #####【解题思路】
 
