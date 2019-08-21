@@ -1,11 +1,11 @@
 
 ### PTA练习之 The Best Rank
 
-![first](images/WorldCupBetting1.png)
+![first](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/images/TheBestRank1.PNG)
 
-![second](images/WorldCupBetting2.png)
+![second](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/images/TheBestRank2.PNG)
 
-#####【解题思路】
+##### 【解题思路】
 
 这题主要把思路理清，就可以一气呵成。
 
@@ -24,7 +24,7 @@
 
 4、对于每一个成绩，如何快速获得该成绩的排名。这里我还是采用一个数组，预先排好序，以后直接查找该成绩在数组的哪个位置即可知道对应的名次。
 
-#####【代码】
+##### 【代码】
 
 ```C++
 #include<iostream>
