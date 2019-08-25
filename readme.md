@@ -28,3 +28,5 @@
 [3、1011 World Cup Betting](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/WorldCupBetting.md)
 
 [4、1012 The Best Rank](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/TheBestRank.md)
+
+[5、1013 Battle Over Cities](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/BattleOverCities.md)
