@@ -21,10 +21,10 @@
 
 ### PAT 甲级练习
 
-[1、1007 Maximum Subsequence Sum](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/radix.md)
+[1、1007 Maximum Subsequence Sum](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/MaximumSubsequenceSum.md)
 
 [2、1010 Radix](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/radix.md)
 
 [3、1011 World Cup Betting](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/WorldCupBetting.md)
 
-[4、1012 The Best Rank](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/WorldCupBetting.md)
+[4、1012 The Best Rank](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/TheBestRank.md)
