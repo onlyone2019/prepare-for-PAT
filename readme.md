@@ -30,3 +30,18 @@
 [4、1012 The Best Rank](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/TheBestRank.md)
 
 [5、1013 Battle Over Cities](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/BattleOverCities.md)
+
+### 递归入门练习
+- [DFS模板](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/model.md)
+
+- [全排列](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/全排列.md)
+
+- [组合输出](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/组合输出.md)
+
+- [组合并判断素数](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/组合并判断素数.md)
+
+- [出栈序列统计](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/出栈序列统计.md)
+
+- [n皇后](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/n皇后.md)
+
+- [走迷宫](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/走迷宫.md)
