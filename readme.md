@@ -45,3 +45,9 @@
 - [n皇后](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/n皇后.md)
 
 - [走迷宫](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/走迷宫.md)
+
+### 递归进阶练习
+
+- [迷宫建墙](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/迷宫建墙.md)
+
+- [机器人走迷宫](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/机器人走迷宫.md)
