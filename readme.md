@@ -51,3 +51,7 @@
 - [迷宫建墙](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/迷宫建墙.md)
 
 - [机器人走迷宫](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/机器人走迷宫.md)
+
+- [武器安放](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/武器安放.md)
+
+- [小狗逃出迷宫](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/小狗逃出迷宫.md)
