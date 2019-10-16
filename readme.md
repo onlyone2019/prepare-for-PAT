@@ -31,6 +31,8 @@
 
 [5、1013 Battle Over Cities](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/BattleOverCities.md)
 
+[6、1021 Deepest Root](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/DeepestRoot.md)
+
 ### 递归入门练习
 - [DFS模板](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/model.md)
 
