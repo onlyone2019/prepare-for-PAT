@@ -35,6 +35,10 @@
 
 [7、1021 Deepest Root](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/DeepestRoot.md)
 
+[8、1022 Digital Library](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/DigitalLibrary.md)
+
+[9、1026 Table Tennis](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/TableTennis.md)
+
 ### 递归入门练习
 - [DFS模板](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/model.md)
 
@@ -59,3 +63,5 @@
 - [武器安放](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/武器安放.md)
 
 - [小狗逃出迷宫](https://github.com/onlyone2019/prepare-for-PAT/blob/master/doc/小狗逃出迷宫.md)
+
+### Leetcode练习
